@@ -4,15 +4,15 @@
 
 Python exercises for Vem from http://www.practicepython.org/
 
-- [] 1: Character Input  
-- [] 2: Odd Or Even  
-- [] 3: List Less Than Ten    
-- [] 4: Divisors    
-- [] 5: List Overlap    
-- [] 6: String Lists    
-- [] 7: List Comprehensions    
-- [] 8: Rock Paper Scissors      
-- [] 9: Guessing Game One      
+- [ ] 1: Character Input  
+- [ ] 2: Odd Or Even  
+- [ ] 3: List Less Than Ten    
+- [ ] 4: Divisors    
+- [ ] 5: List Overlap    
+- [ ] 6: String Lists    
+- [ ] 7: List Comprehensions    
+- [ ] 8: Rock Paper Scissors      
+- [ ] 9: Guessing Game One      
 - [ ] 10: List Overlap Comprehensions    
 - [ ] 11: Check Primality Functions      
 - [ ] 12: List Ends  
